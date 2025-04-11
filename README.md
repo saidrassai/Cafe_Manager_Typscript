@@ -85,3 +85,6 @@ console.log(customizedCoffee.getPrice()); // 4.9 (3.5 + 0.5 + 0.2 + 0.7)
 - TypeScript
 - IndexedDB (with mock implementation)
 - Node.js
+## diagram UML
+![diagram](https://github.com/user-attachments/assets/8088415d-6f72-451d-aef8-a9f58f0222c1)
+
